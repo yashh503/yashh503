@@ -20,8 +20,14 @@ I believe in the power of teamwork and learning through collaboration. If you're
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash503/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Vyas LinkedIn" height="30" width="120" /></a>
-<a href="https://bento.me/yash-vyas" target="_blank"><img align="center" src="https://cdn.prod.website-files.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg?&style=for-the-badge&logo=Bento&logoColor=white"" alt="Yash Vyas Bento" height="30" width="100" /></a>
-<a href="https://yashh503.vercel.app/" target="_blank"><img align="center" src="https://yashh503.vercel.app/static/media/logo2.94131ce0f17adc28e08b.png?&style=for-the-badge&logo=Portfolio&logoColor=white"" alt="Yash Vyas Portfolio" height="30" width="120" /></a>
+<a href="https://bento.me/yash-vyas" target="_blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/Bento-0073e6?style=for-the-badge&logo=Bento&logoColor=white&color=000000" 
+       alt="Yash Vyas Bento" 
+       height="30" 
+       width="100" />
+</a>
+<a href="https://yashh503.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%2316A085.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Yash Vyas Portfolio" height="30" width="120" /></a>
 </p>
 <hr />
 
