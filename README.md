@@ -33,7 +33,7 @@ I believe in the power of teamwork and learning through collaboration. If you're
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
 
