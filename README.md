@@ -41,25 +41,23 @@ I believe in the power of teamwork and learning through collaboration. If you're
     <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"></a></td>
     <td><a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"></a></td>
     <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a></td>
-  </tr>
-  <tr>
     <td><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"></a></td>
     <td><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" height="40"></a></td>
     <td><a href="https://material-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"></a></td>
     <td><a href="https://nuxtjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg" alt="Nuxt.js" width="40" height="40"></a></td>
     <td><a href="https://vuesax.com/" target="_blank"><img src="https://lusaxweb.github.io/vuesax/vuesax-logo-beta.png" alt="Vuesax" width="40" height="40"></a></td>
-  </tr>
-  <tr>
     <td><a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"></a></td>
     <td><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"></a></td>
     <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a></td>
-    <td><a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" width="40" height="40"></a></td>
+    <td><a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" width="40" height="40"></a></td>  
+</tr>
+  <tr>
     <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a></td>
     <td><a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://capacitorjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-capacitor.svg" alt="Capacitor" width="40" height="40"></a></td>
+       <td><a href="https://capacitorjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-capacitor.svg" alt="Capacitor" width="40" height="40"></a></td>
     <td><a href="https://www.twilio.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/twilio-icon-512x512-bm2sbpa4.png" alt="Twilio" width="40" height="40"></a></td>
     <td><a href="https://pusher.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/739550?s=200&v=4" alt="Pusher" width="40" height="40"></a></td>
     <td><a href="https://www.postman.com/" target="_blank"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"></a></td>
