@@ -14,7 +14,8 @@
 I believe in the power of teamwork and learning through collaboration. If you're working on interesting projects, open-source contributions, or learning journeys, I'd love to connect and grow with you!  
 
 📬 **Reach me at:**  
-- **Email:** yashvyas53202@gmail.com  
+- **Email:** dev.yashvyas@gmail.com  
+
 
 ### Connect with me:
 
@@ -30,6 +31,7 @@ I believe in the power of teamwork and learning through collaboration. If you're
 <a href="https://yashh503.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%2316A085.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Yash Vyas Portfolio" height="30" width="120" /></a>
 </p>
 <hr />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashh503&show_icons=true&locale=en&layout=compact" alt="yashh503" /></p>
 
 ### 🛠️ Languages and Tools
 
