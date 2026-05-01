@@ -11,3 +11,5 @@ I build scalable web and mobile applications with a strong focus on backend arch
 * 💼 **LinkedIn:** [linkedin.com/in/yash503](https://www.linkedin.com/in/yash503/)
   
 * 🌐 **Portfolio:** [yash.yarvix.space](https://yash.yarvix.space)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashh503&label=Profile%20views&color=0e75b6&style=flat" alt="yashh503" /> </p>
