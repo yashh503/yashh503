@@ -2,6 +2,7 @@
 ### Software Engineer | Full Stack Developer
 
 I'm a Software Engineer focused on building scalable web and mobile applications, designing robust backend systems, and developing efficient, maintainable software. I enjoy solving complex engineering problems, optimizing application performance, and integrating AI-powered solutions to build intelligent, user-centric products.
+
 GitHub graph doesn't tell the whole story — most of my work commits live on my workplace's GitHub. 💼💻
 
 ## 📬 Reach Me At
