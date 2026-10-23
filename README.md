@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=24&vCenter=true&width=500&height=28&fontWeight=bold&lines=Hey+there%2C+I'm+Yash+Vyas)](https://git.io/typing-svg)
 ### Software Engineer | Full Stack Developer
 
-I build scalable web and mobile applications with a strong focus on backend architecture, performance, and clean system design, while also integrating AI-driven solutions to deliver intelligent, efficient, and user-centric products.
+I'm a Software Engineer focused on building scalable web and mobile applications, designing robust backend systems, and developing efficient, maintainable software. I enjoy solving complex engineering problems, optimizing application performance, and integrating AI-powered solutions to build intelligent, user-centric products.
+GitHub graph doesn't tell the whole story — most of my work commits live on my workplace's GitHub. 💼💻
 
 ## 📬 Reach Me At
 
